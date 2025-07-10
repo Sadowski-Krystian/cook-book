@@ -18,8 +18,9 @@ Możesz dowolnie kożystać i modyfikować dostępne tutaj przepisy.
 
    I am currently not planning to translate this cookbook into English.
 
-Przepisy
---------
 
 .. toctree::
-   usage
+   :maxdepth: 2
+   :caption: Spis treści
+
+   ciasta
