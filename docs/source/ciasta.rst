@@ -5,4 +5,4 @@ Ciasta
    :maxdepth: 1
 
    ciasta/ciasto_marchewkowe
-   .. ciasta/ciasto2
+   ciasta/zebra
