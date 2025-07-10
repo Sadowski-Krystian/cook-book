@@ -18,7 +18,7 @@ Jajka + cukier + cynamon utrzeć mikserem. Marchewkę obrać i zetrzeć na tarce
 
 
 
-Skłądniki - polewa
+Składniki - polewa
 -------------------
 - :math:`\frac{3}{4}` szklanki cukru
 - 3 łyżki wody
