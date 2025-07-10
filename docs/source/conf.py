@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Książka Kucharska'
+copyright = '2024, Sadowski Krystian'
+author = 'Sadowski Krystian'
 
 release = '0.1'
 version = '0.1.0'
