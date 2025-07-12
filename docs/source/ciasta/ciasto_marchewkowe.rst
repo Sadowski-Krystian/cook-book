@@ -31,3 +31,15 @@ Sposób przygotowania - polewa
 ------------------------------
 W garnku roztopić margarynę wraz z wodą, cukrem i kakao. chwilę gotować do rozpuszczenia cukru ok. 5 min. Na koniec dodać ocet. Odstawić do lekkiego przestygnięcia. Polać na wystudzone ciasto.
 
+
+
+.. image:: ../../images/marchewkowe_full.jpg
+   :alt: Ciasto Marchewkowe Całe
+   :align: center
+..    :width: 400px
+
+
+.. image:: ../../images/marchewkowe_piece.jpg
+   :alt: Ciasto Marchewkowe Kawałek
+   :align: center
+..    :width: 400px
