@@ -28,5 +28,5 @@ Składniki - masa serowa
 
 Sposób przygotowania - masa serowa
 ------------------------------
-Wszystko razem zmiksować poza mlekiem. Po zmikowaniu do jednolitej masy dodać mleko i zmiksować ponownie do jednolitej masy. Dodać pianę z ubitych wcześniej białek. Masę serową wylać na ciasto. Piec ok. godzinę w temperatuże  :math:`160-165^\circ` termoobieg.
+Wszystko razem zmiksować poza mlekiem. Po zmikowaniu do jednolitej masy dodać mleko i zmiksować ponownie do jednolitej masy. Dodać pianę z ubitych wcześniej białek. Masę serową wylać na ciasto. Piec ok. godzinę w temperatuże  :math:`180^\circ` termoobieg.
 
