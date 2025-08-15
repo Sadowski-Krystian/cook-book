@@ -6,3 +6,5 @@ Ciasta
 
    ciasta/ciasto_marchewkowe
    ciasta/zebra
+   ciasta/babka_majonezowa
+   ciasta/sernik
